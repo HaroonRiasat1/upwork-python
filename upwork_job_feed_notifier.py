@@ -21,7 +21,7 @@ from selenium.webdriver.chrome.options import Options
 
 #if you saved the key under a different environment variable name, you can do something like:
 client = OpenAI(
-  api_key="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",
+ ,
 )
 # def scrape_job_activity(url):
 #     # Set up Chrome options for headless mode
