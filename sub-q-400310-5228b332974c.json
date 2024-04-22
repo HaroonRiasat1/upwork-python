@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sub-q-400310",
+  "private_key_id": "5228b332974c643eb93239dbd673e66a0b153a74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSNNiJZKaLj6Q3\nOKzibxyF+UxUSa1YgxIEn1a6ZnjVo7dubR1gnafsfZv4tFi+kfjftlwrdpoHg6sS\n5iHkBg/MraiwndYYJY6sZ+lWKsiYH6DzDer5NbFjCMLfwjSxM/mMNpguFAd3bNuh\n9NGXxuEiR3oBIW4IAMdenA8Q0fuLZSwEW2qQs1PbKaOljqfU0416fr4dG0MiFXqY\nI51vziFMH5zA5umsLVxXbgYXToorIUPu4Nzwi+Ln4+06kXdVuXo/EUzWtk1XGHJx\nxK9dPKmT9q/QDFHfzILbRW1IHrOXGl+E8wloIEVDg6v2NqwMeEcImxDoWf/h1AfL\n2FPShZCDAgMBAAECggEAI+Tgcl6o+qNhrAL4gsDHjmalZB4QdiX7kvHxb2K/8Kc4\nXd5g83rRIqC13YmdLfAVWwrgtvTvnL+pDMM998a7M0NBIlclnBkAXXhHU1W+mIZP\nU8yLbvJNIeShPyDlIcoCTneKxek56gpqI2lA2ZPEas+EdumXo1RZnfMPSdBbgp2N\ngdaOiovlrb1vzVzHL7NwBKlzWr4YCOGlG/0dzhf/WL0yqjUemQ7YCRdr+zgW9k53\n7U5byk9VlEZ/6/UxAmeD+8byrnI3Ok1RDZ8mFL96gy3opKuj7ORek3U/xIpxRMfn\nKkjkT/nxiEOrddP+qCuvvdEFvole85dTJA60v5fZrQKBgQDCEPMegxr8YfaFugI6\nBdSN77ol2J7FNPk+cAOEGb3jn2xHRkUTjXOUlVvBkI5IPtkGr5p1pag3aC/Ti5jI\nu5iyE+BkH8zWV4hW3aqSus+4Dc0ePC5rBGvq3opd/3GbDVyHghWBT7XswYzhL5SE\no1EFemWOxrfGcs5j7rxrORKqHQKBgQDA3cqSwos8Q3FJ1nD7UDkmQH7zvJ16m/IH\n/YtBPt5MGBtkswxMzB3iAyPbK2GHS+yeuLYOsIDAxSVT6xz5vX9wLydrNdHZo2PK\nOgC065dhxASDyBD3c5vrGd/dv5Ng9hvQpDO0PA1OWF6Ve2gsrLbER7wpgZVH69bj\nz9d4dDUjHwKBgBTimBeHiobw0AQSQZ0W9YoU65aZGnUkv1Id4fL8hjgR9ygwgsyY\n44BxFn/dW8KgqOCUU24n1tOnrcX5dwbbUZKQmwyLc5L5tp2Km4nQ+vvW2GVRmrk/\nr5GGQ6PcEtDZ/kRDFqdk+bIyHkQ5x6UConyRcI6OCkccIeQVVEfBy6VtAoGBAIFE\npwAS8OvlcEtDNdrb/FINLIoFQ6/oUiLU579Feg2aotGtyHK45NaVsDS4MNhUJTaF\nK1FRMBsEiG5kybkCMCZrFIqhOhQblUj3831P4tkeXsBNGkIg9MJxR0EDpK56hk4j\noJwPHAQE6vBaFIrNAHsycYWIWxwnkJKEvjD4Ap2VAoGBAJdVBb192mxaEoaPQ9jO\ndalrujFMYaMFDY/yM8qKbIvBVlVmINn6N8IpuasE9p45Ue1xn/GLePQll2DvR5bW\nUM5vN21aI96b3kLOp+IydoxhZotGxoSMfyDFvHyk9TwvQ3OvT2L3f9NCMeIc+LyL\nJRWgyDGVFAadMU0ornZ0UTDQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "upwork@sub-q-400310.iam.gserviceaccount.com",
+  "client_id": "114993436672911686141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upwork%40sub-q-400310.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

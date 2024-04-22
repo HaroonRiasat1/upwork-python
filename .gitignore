@@ -1,0 +1,11 @@
+
+venv/
+.idea/
+
+config.json
+processed_jobs.json
+
+cron_out.txt
+*.log
+
+upwork_jobs.db
